@@ -1,0 +1,31 @@
+body {
+    background-color: #F3F1FF;
+}
+
+.brand-logo {
+    width: 42px;
+    height: 51px;
+}
+
+.user-img {
+    width: 51px;
+    height: 51px;
+}
+
+.player img {
+    width: 56px;
+    height: 56px;
+}
+
+.top-player h2 {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.space-btwn {
+    padding-left: 5px;
+}
+
+.rw-main {
+    margin-bottom: 30px;
+}
